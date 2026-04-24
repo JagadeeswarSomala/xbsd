@@ -2,7 +2,7 @@
 
 XBSD is a lightweight toolkit for cross-compiling FreeBSD binaries on Linux using Clang, LLVM, and LLD.
 
-It automates the two parts of FreeBSD cross-compilation:
+It automates two parts of FreeBSD cross-compilation:
 
 * Downloading official FreeBSD base archives
 * Creating a complete FreeBSD sysroot ready for Clang and CMake
